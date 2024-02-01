@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyoDavid26
 - 👀 I’m interested in providing lasting solutions to everyday challenges using technology
-- 🌱 I’m currently learning at ALX python, js, elixir
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning at ALX python, HTML, CSS, js, elixir, Django, Flask
+- 💞️ I’m looking to collaborate on softare architectural design, back end implementations, 
 - 📫 How to reach me ...
 
 <!---
